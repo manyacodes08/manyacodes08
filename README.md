@@ -12,11 +12,11 @@
 
 👩‍💻 Computer Science Engineering student passionate about coding, problem-solving, and continuous learning. Skilled in C, Python, HTML, and CSS, with a passion for building projects and exploring new technologies. Always exploring new technologies and growing one project at a time. 🚀
 
-🔭 &nbsp;I'm currently working on **Improving my programming skills, building beginner-level projects, and exploring web development with Python, C, HTML, and CSS.**  
+🔭 &nbsp;I'm currently working on **Improving my programming skills, building beginner-level projects, and exploring web development with Python, C, HTML, and CSS.  
 🌱 &nbsp;I'm currently learning Python, C, and Web Development.**  
-👯 &nbsp;I'm looking to collaborate on beginner-friendly coding projects, web development, and open-source projects.**  
-🤔 &nbsp;I'm looking for help with improving my coding skills, building projects, and exploring new technologies.**  
-💬 &nbsp;Ask me about C, Python, beginner projects, and my journey in learning technology.**  
+👯 &nbsp;I'm looking to collaborate on beginner-friendly coding projects, web development, and open-source projects. 
+🤔 &nbsp;I'm looking for help with improving my coding skills, building projects, and exploring new technologies.  
+💬 &nbsp;Ask me about C, Python, beginner projects, and my journey in learning technology.
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **I can spend hours exploring new tech and coding projects.**
 
